@@ -1,0 +1,54 @@
+.app {
+    font-family: oswald;
+    text-align: center;
+  }
+  .image-dims {
+    margin: 50px;
+    width: 30%;
+    height: 23vw;
+  }
+  .sodaDiv {
+    display: none;
+  }
+  .lemonadeDiv {
+    display: none;
+  }
+  .waterDiv {
+    display: none;
+  }
+  
+  .navtest ul {
+    font-family: roboto;
+    background-color: #EFEEEF;
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+  }
+  .navtest a {
+  color: black;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+  }
+  .navtest a:hover {
+    background-color: #D2D2D2;
+  }
+  .navtest li {
+    float: left;
+    font-size: 1.5vw;
+  }
+  .allergens {
+    font-family: "open sans"; 
+    margin: 20px;
+    padding-left: 30px;
+  }
+  .contact-info {
+    display: flex;
+    justify-content: space-around;
+    font-size: 15px;
+    font-family: verdana !important;
+}

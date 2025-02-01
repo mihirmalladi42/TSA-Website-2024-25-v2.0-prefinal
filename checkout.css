@@ -1,0 +1,40 @@
+#listDisplay {
+  font-size: 16px;
+  font-family: "Open Sans";
+  margin-left: 50px;
+}
+#listDisplay li {
+  margin-bottom: 10px;
+}
+#listDisplay li button {
+  margin-left: 1%;
+  font-family: verdana;
+}
+.labelContact {
+  font-family: "Open Sans";
+  margin-left: 50px;
+}
+.sectionHeading {
+  font-family: "open sans";
+  font-size: 40px;
+  margin-left: 50px;
+}
+#contactContainer {
+  display: flex;
+  font-size: 16px;
+}
+.margin-right {
+  margin-right: 15%;
+}
+#divFlex {
+  display: flex !important;
+}
+#btnCardInfo {
+  margin-left: 50px;
+}
+.contact-info {
+  display: flex;
+  justify-content: space-around;
+  font-size: 15px;
+  font-family: verdana !important;
+}

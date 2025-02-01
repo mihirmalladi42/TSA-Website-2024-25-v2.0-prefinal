@@ -1,0 +1,18 @@
+#alldonehtml {
+    font-family: bitter;
+    font-size: 100px;
+    text-align: center;
+}
+#thankyouhtml {
+    font-family: century-gothic;
+    font-size: 40px;
+}
+#btnHome {
+    background-color: #EFEEEF;
+}
+.contact-info {
+    display: flex;
+    justify-content: space-around;
+    font-size: 15px;
+    font-family: verdana !important;
+}
