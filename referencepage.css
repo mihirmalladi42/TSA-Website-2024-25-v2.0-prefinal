@@ -1,0 +1,26 @@
+.heading {
+    font-family: oswald;
+    text-align: left;
+    margin-left: 50px;
+    font-size: 40px;
+}
+.subheading {
+    margin-bottom: 20px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+.courier {
+    font-family: "Courier New";
+}
+.century {
+    font-family: century-gothic;
+}
+.contact-info {
+    display: flex;
+    justify-content: space-around;
+    font-size: 15px;
+    font-family: verdana !important;
+}
+.black {
+    color: black;
+}

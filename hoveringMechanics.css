@@ -1,0 +1,42 @@
+.cardOrder {
+  display: flex;
+  align-items: center;
+}
+.cardOrder:hover {
+    background-color: rgb(240, 240, 240);
+    border: 2px solid rgb(222, 222, 222);
+}
+.cardOrder:hover img {
+    border: 2px solid black;
+}
+.foodHeading {
+    font-family: oswald;
+    font-size: 65px;
+  }
+  .foodDescription {
+    font-family: bitter;
+    font-size: 20px;
+  }
+  .foodPrice {
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-style: italic;
+  }
+  .foodAllergies {
+    font-family: "Open Sans";
+    font-size: 15px;
+  }
+  .foodButton {
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    font-family: bitter;
+    font-size: 1.5vw;
+  }
+  .foodConfirm {
+    font-family: oswald;
+  margin: 20px;
+  padding-left: 30px;
+  font-size: 1.5vw;
+  }
